@@ -1,0 +1,16 @@
+{
+  "name": "sub2text",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convert",
+    "subtitles",
+    "sbv"
+  ],
+  "author": "@jonabasque",
+  "license": "GPL-3.0"
+}

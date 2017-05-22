@@ -1,0 +1,3276 @@
+1
+00:00:38,370 --> 00:00:42,250
+[Música]
+
+2
+00:00:42,320 --> 00:00:48,080
+en formol para las personas que no
+
+3
+00:00:45,210 --> 00:00:51,010
+tienen o cortafuegos es una capa que se
+
+4
+00:00:48,080 --> 00:00:53,950
+colocan aysén malvar provimi lactatis o
+
+5
+00:00:51,010 --> 00:00:56,520
+abril puertos o prevenir cualquier
+
+6
+00:00:53,950 --> 00:00:58,740
+información o ataque que se realice a
+
+7
+00:00:56,520 --> 00:01:01,280
+microsistemas muchos muchos acta
+
+8
+00:00:58,740 --> 00:01:02,660
+quilamas bd o s o ataques que se
+
+9
+00:01:01,280 --> 00:01:03,520
+realicen o los servidores se pueden
+
+10
+00:01:02,660 --> 00:01:06,250
+prevenir
+
+11
+00:01:03,520 --> 00:01:08,950
+básicamente con un faro en el cuadro el
+
+12
+00:01:06,250 --> 00:01:10,950
+smac a pakistã mucho antes de llegar a
+
+13
+00:01:08,950 --> 00:01:14,979
+nuestra aplicación funciona sobre el
+
+14
+00:01:10,950 --> 00:01:18,510
+kernel y antes en linux ya existía algo
+
+15
+00:01:14,979 --> 00:01:21,040
+otra otra versión o otro otro sistema
+
+16
+00:01:18,510 --> 00:01:23,820
+ya después de cambio afirmó y pp y
+
+17
+00:01:21,040 --> 00:01:28,550
+bush y pedimos es esto algo por defecto
+
+18
+00:01:23,820 --> 00:01:31,410
+que se utiliza en los sistemas linos y
+
+19
+00:01:28,550 --> 00:01:33,300
+32 puente realidad la configuración del
+
+20
+00:01:31,410 --> 00:01:36,020
+de permitir los puertos
+
+21
+00:01:33,300 --> 00:01:40,020
+yo quiero filtrar lo que jarre también
+
+22
+00:01:36,020 --> 00:01:42,010
+para saber qué está pasando y
+
+23
+00:01:40,020 --> 00:01:43,210
+cualquier información que ustedes
+
+24
+00:01:42,010 --> 00:01:45,300
+quieran realizar
+
+25
+00:01:43,210 --> 00:01:46,970
+internamente el cuadro del torneo y que
+
+26
+00:01:45,300 --> 00:01:48,550
+en cinco años que se encarga o el
+
+27
+00:01:46,970 --> 00:01:53,050
+cortafuego están es el que se encarga
+
+28
+00:01:48,550 --> 00:01:55,320
+de hacer nada nada es una traducción de
+
+29
+00:01:53,050 --> 00:01:59,140
+iberia cuando se presentan sus casas
+
+30
+00:01:55,320 --> 00:02:02,500
+realmente están detrás de un router o
+
+31
+00:01:59,140 --> 00:02:05,270
+entradas de una gesta hoy de gualeguay y
+
+32
+00:02:02,500 --> 00:02:09,520
+delincuente aquí con ustedes revisan su
+
+33
+00:02:05,270 --> 00:02:13,890
+invento vamos a tener un empelo caño
+
+34
+00:02:09,520 --> 00:02:17,230
+muy posiblemente bastante 500 192 168
+
+35
+00:02:13,890 --> 00:02:20,000
+entonces page hay privadas y públicas y
+
+36
+00:02:17,230 --> 00:02:22,370
+realmente debido que su versión 4 no
+
+37
+00:02:20,000 --> 00:02:25,810
+soporta tanto direcciones a nivel
+
+38
+00:02:22,370 --> 00:02:28,090
+mundial entonces existe
+
+39
+00:02:25,810 --> 00:02:29,830
+es más cara miento por consiguiente
+
+40
+00:02:28,090 --> 00:02:32,239
+cada vez que yo voy a salir internet
+
+41
+00:02:29,830 --> 00:02:35,260
+realmente la ip que springsteen en en
+
+42
+00:02:32,239 --> 00:02:36,880
+sus equipos no va a ser nativo a navegar
+
+43
+00:02:35,260 --> 00:02:38,530
+en internet
+
+44
+00:02:36,880 --> 00:02:39,670
+si ustedes quieren saber cuáles les ve
+
+45
+00:02:38,530 --> 00:02:45,360
+que usted realmente les corresponde
+
+46
+00:02:39,670 --> 00:02:48,340
+internet o en buscar ni alves o my eye
+
+47
+00:02:45,360 --> 00:02:52,880
+peas alex en google y cualquier servicio
+
+48
+00:02:48,340 --> 00:02:54,989
+que está allí les va a decir cuál la
+
+49
+00:02:52,880 --> 00:02:55,709
+dirección prestéis tienen en este
+
+50
+00:02:54,989 --> 00:02:57,410
+momento
+
+51
+00:02:55,709 --> 00:03:00,680
+un ejemplo de esto es lo que va a
+
+52
+00:02:57,410 --> 00:03:02,730
+hinchar para que ustedes puedan revisar
+
+53
+00:03:00,680 --> 00:03:04,670
+cuál es la dirección que tienen en
+
+54
+00:03:02,730 --> 00:03:07,440
+este momento es una dirección realmente
+
+55
+00:03:04,670 --> 00:03:09,840
+qué está publica en internet es muy
+
+56
+00:03:07,440 --> 00:03:12,099
+diferente a la dirección que éste es
+
+57
+00:03:09,840 --> 00:03:15,549
+acceden cuando colocan y ético
+
+58
+00:03:12,099 --> 00:03:17,940
+vamos a pasar no vamos abrir nuestra
+
+59
+00:03:15,549 --> 00:03:17,940
+terminal
+
+60
+00:03:25,769 --> 00:03:35,560
+y de él pueden volverse supo los
+
+61
+00:03:31,170 --> 00:03:37,650
+usuarios o por usuarios y pueden mirar
+
+62
+00:03:35,560 --> 00:03:42,140
+en sus equipos mismos con el comando y
+
+63
+00:03:37,650 --> 00:03:44,829
+el picón y efecom ce clb a decir cuál
+
+64
+00:03:42,140 --> 00:03:49,049
+la dirección do can revisen lo que dice
+
+65
+00:03:44,829 --> 00:03:51,530
+inti h zero donde un lancero de pronto
+
+66
+00:03:49,049 --> 00:03:54,549
+esté siendo otro yo soy yo estoy por
+
+67
+00:03:51,530 --> 00:03:57,310
+kale rectifican entonces por el ebitda
+
+68
+00:03:54,549 --> 00:03:58,769
+de la dirección ip interna que se
+
+69
+00:03:57,310 --> 00:04:01,000
+encuentra en este momento hay una
+
+70
+00:03:58,769 --> 00:04:02,730
+pública la cual yo puedo chéreau en
+
+71
+00:04:01,000 --> 00:04:05,640
+donde y yo me encuentro en este momento
+
+72
+00:04:02,730 --> 00:04:07,840
+delicado no se ha dado a por obvias
+
+73
+00:04:05,640 --> 00:04:09,400
+razones un poco de seguridad pero en
+
+74
+00:04:07,840 --> 00:04:12,010
+cuando éste se entre a y c dirección
+
+75
+00:04:09,400 --> 00:04:14,129
+que les puse ustedes van a poder entrar
+
+76
+00:04:12,010 --> 00:04:17,539
+y saber cuál aipe que está
+
+77
+00:04:14,129 --> 00:04:19,959
+directamente hacia fuera en internet
+
+78
+00:04:17,539 --> 00:04:22,430
+vamos a conectamos adicionalmente a
+
+79
+00:04:19,959 --> 00:04:28,910
+nuestra nada a nuestro servidor que
+
+80
+00:04:22,430 --> 00:04:29,789
+teníamos el día de ayer es el mismo
+
+81
+00:04:28,910 --> 00:04:32,430
+servidor que habíamos dejado
+
+82
+00:04:29,789 --> 00:04:38,840
+configurado el día ayer que existe esta
+
+83
+00:04:32,430 --> 00:04:41,070
+práctica esto nuestro empeño para que
+
+84
+00:04:38,840 --> 00:04:42,940
+ustedes acuerden ian mosh teníamos un
+
+85
+00:04:41,070 --> 00:04:45,310
+apático figurado teníamos
+
+86
+00:04:42,940 --> 00:04:47,970
+adicionalmente
+
+87
+00:04:45,310 --> 00:04:49,910
+el molón estación de wordpress que
+
+88
+00:04:47,970 --> 00:04:52,350
+acá no se está funcionando pues está
+
+89
+00:04:49,910 --> 00:04:54,210
+en proyección en la que nos ha
+
+90
+00:04:52,350 --> 00:04:56,720
+permitido a nosotros trabajar bien son
+
+91
+00:04:54,210 --> 00:04:58,000
+con el día de ayer pese esa dirección
+
+92
+00:04:56,720 --> 00:05:00,430
+si ustedes quieren saber qué fue lo que
+
+93
+00:04:58,000 --> 00:05:03,290
+hicimos herida ayer revisen la clase que
+
+94
+00:05:00,430 --> 00:05:06,110
+está inmediatamente anterior y allá
+
+95
+00:05:03,290 --> 00:05:07,880
+pueden revisar que fui y cómo llegamos
+
+96
+00:05:06,110 --> 00:05:10,160
+hasta este punto si ustedes tienen
+
+97
+00:05:07,880 --> 00:05:12,840
+alguna pregunta por favor utilicen el
+
+98
+00:05:10,160 --> 00:05:14,940
+hashtag soy mejorando la habíamos a
+
+99
+00:05:12,840 --> 00:05:17,690
+colocar pregunta si está prestando y
+
+100
+00:05:14,940 --> 00:05:20,230
+contestar todo lo que éste se incurra
+
+101
+00:05:17,690 --> 00:05:22,900
+en cualquier otra pregunta durante este
+
+102
+00:05:20,230 --> 00:05:24,810
+curso no solamente esta semana sino las
+
+103
+00:05:22,900 --> 00:05:27,220
+próximas semanas pueden colocar la cim
+
+104
+00:05:24,810 --> 00:05:29,130
+en chad y voy a estar tratando de
+
+105
+00:05:27,220 --> 00:05:30,170
+contestar todas las preguntas que
+
+106
+00:05:29,130 --> 00:05:32,900
+aparezcan en china
+
+107
+00:05:30,170 --> 00:05:37,390
+bueno entonces teniendo ya en nuestra
+
+108
+00:05:32,900 --> 00:05:44,580
+dirección ip en roma o conectado a la
+
+109
+00:05:37,390 --> 00:05:47,700
+máquina superó a 40 y criticamos ese
+
+110
+00:05:44,580 --> 00:05:51,060
+el usuario junto a rob a la dirección
+
+111
+00:05:47,700 --> 00:05:54,350
+ip y utilizamos nuestro hallado en que
+
+112
+00:05:51,060 --> 00:05:58,260
+se encuentran directorio o punto ssh
+
+113
+00:05:54,350 --> 00:06:00,630
+slash mejorando las 1 punto menos
+
+114
+00:05:58,260 --> 00:06:03,410
+allí tenemos que estar allá y ya nos
+
+115
+00:06:00,630 --> 00:06:06,140
+conectamos al servidor y vamos a
+
+116
+00:06:03,410 --> 00:06:08,380
+convertirnos ahora en súper suaves cada
+
+117
+00:06:06,140 --> 00:06:11,600
+vez que ustedes van a modificar el
+
+118
+00:06:08,380 --> 00:06:13,720
+cortafuegos o fardos del sistema es
+
+119
+00:06:11,600 --> 00:06:16,990
+obligatorio que sean súper usuarios
+
+120
+00:06:13,720 --> 00:06:19,540
+hacían el usuario root o el faro él no
+
+121
+00:06:16,990 --> 00:06:21,650
+se puede cambiar si éste no son un solo
+
+122
+00:06:19,540 --> 00:06:23,790
+rollo porque por fin son seguridad del
+
+123
+00:06:21,650 --> 00:06:23,790
+sistema
+
+124
+00:06:24,030 --> 00:06:28,770
+hoy voy a explicarle algo muy básico
+
+125
+00:06:26,840 --> 00:06:31,380
+del park güell
+
+126
+00:06:28,770 --> 00:06:33,280
+existen diferentes formas existe mucha
+
+127
+00:06:31,380 --> 00:06:36,180
+teoría expo adultos itea perú también
+
+128
+00:06:33,280 --> 00:06:37,990
+torre mente van mooy concatenado al 22
+
+129
+00:06:36,180 --> 00:06:39,290
+entonces los invito que éste de
+
+130
+00:06:37,990 --> 00:06:40,120
+revisión y más información en
+
+131
+00:06:39,290 --> 00:06:41,460
+internet
+
+132
+00:06:40,120 --> 00:06:43,500
+hoy vamos demás configuración
+
+133
+00:06:41,460 --> 00:06:45,370
+normalmente dos forum en su
+
+134
+00:06:43,500 --> 00:06:47,690
+configuración cádiz y empleo por más
+
+135
+00:06:45,370 --> 00:06:50,660
+aceptamos todas las condiciones y
+
+136
+00:06:47,690 --> 00:06:53,230
+restricción moss las que no quieren
+
+137
+00:06:50,660 --> 00:06:56,010
+mostrar en entrando o bloqueamos
+
+138
+00:06:53,230 --> 00:06:58,120
+absolutamente todo y abrimos los puertos
+
+139
+00:06:56,010 --> 00:06:59,760
+que necesitamos
+
+140
+00:06:58,120 --> 00:07:01,850
+la segunda es la más recomendada por
+
+141
+00:06:59,760 --> 00:07:04,330
+qué razón porque muchas veces dejamos
+
+142
+00:07:01,850 --> 00:07:06,270
+abierto en un puerto nos acordamos que
+
+143
+00:07:04,330 --> 00:07:07,740
+lo que hace o 'somos abierto álbum
+
+144
+00:07:06,270 --> 00:07:10,250
+algún motivo y podemos conectarnos
+
+145
+00:07:07,740 --> 00:07:12,150
+directamente no va a ser a todos o
+
+146
+00:07:10,250 --> 00:07:15,120
+alguna otra información
+
+147
+00:07:12,150 --> 00:07:18,420
+entonces es muy importante que usted
+
+148
+00:07:15,120 --> 00:07:19,920
+tenga mucho cuidado con eso con una
+
+149
+00:07:18,420 --> 00:07:21,690
+configuración de que vamos a bloquear
+
+150
+00:07:19,920 --> 00:07:29,190
+acción temen que todos íbamos a
+
+151
+00:07:21,690 --> 00:07:31,710
+permitir el acceso restringido de
+
+152
+00:07:29,190 --> 00:07:36,070
+algunos impuestos una subir un archivo
+
+153
+00:07:31,710 --> 00:07:37,860
+este archivo ya está configurado y él
+
+154
+00:07:36,070 --> 00:07:39,140
+sobre lo que vamos a estar trabajando si
+
+155
+00:07:37,860 --> 00:07:41,460
+entonces libró entre lizard este
+
+156
+00:07:39,140 --> 00:07:44,850
+archivo el smart sido que yo tengo
+
+157
+00:07:41,460 --> 00:07:47,770
+configurado ya de pronto por años y me
+
+158
+00:07:44,850 --> 00:07:49,430
+ha permitido a mí filtrar y y esta
+
+159
+00:07:47,770 --> 00:07:52,720
+prueba no digamos que me algunos años
+
+160
+00:07:49,430 --> 00:07:59,780
+unos fallos que existen directamente
+
+161
+00:07:52,720 --> 00:08:02,449
+sobre los sistemas por hasta logra subir
+
+162
+00:07:59,780 --> 00:08:07,460
+y concón y listo
+
+163
+00:08:02,449 --> 00:08:12,809
+ese archivo hito que está allí no
+
+164
+00:08:07,460 --> 00:08:16,039
+abrir otro terminal contienen
+
+165
+00:08:12,809 --> 00:08:17,770
+información que ustedes la tienen aquí
+
+166
+00:08:16,039 --> 00:08:21,199
+usted la pueden bajarla pueden descargar
+
+167
+00:08:17,770 --> 00:08:25,309
+y y lo voy a subir a servir en este caso
+
+168
+00:08:21,199 --> 00:08:25,919
+como es un archivo que está local a del
+
+169
+00:08:25,309 --> 00:08:30,599
+serbio
+
+170
+00:08:25,919 --> 00:08:33,289
+usamos el comando s&p ssp
+
+171
+00:08:30,599 --> 00:08:36,690
+utilizaré se destinaba chile pero de
+
+172
+00:08:33,289 --> 00:08:59,040
+una forma aseguró que es una pensión
+
+173
+00:08:36,690 --> 00:09:02,779
+dirigía hacia ftp ftp.univision.net ftp
+
+174
+00:08:59,040 --> 00:09:06,330
+sistel también windows pueden cotizar
+
+175
+00:09:02,779 --> 00:09:08,300
+una herramienta llamada queen s p
+
+176
+00:09:06,330 --> 00:09:11,120
+si ustedes tienen y no hay una
+
+177
+00:09:08,300 --> 00:09:13,380
+herramienta gráfica llamada que itp en
+
+178
+00:09:11,120 --> 00:09:15,240
+el mítico momento a movilizar la línea
+
+179
+00:09:13,380 --> 00:09:17,360
+y comandos porque la línea como
+
+180
+00:09:15,240 --> 00:09:21,100
+anuncié mi amiga un plan para colocar
+
+181
+00:09:17,360 --> 00:09:23,740
+igual en la ruta el usuario para colocar
+
+182
+00:09:21,100 --> 00:09:26,010
+la ruta iba a colocar adicionalmente las
+
+183
+00:09:23,740 --> 00:09:29,690
+ya ven que es la que va a utilizar
+
+184
+00:09:26,010 --> 00:09:33,279
+entonces nuestra llave mejorando en 1
+
+185
+00:09:29,690 --> 00:09:36,730
+punto penn y voy a copiar el archivo fue
+
+186
+00:09:33,279 --> 00:09:40,410
+algo de los dos lo voy a copiar a la
+
+187
+00:09:36,730 --> 00:09:42,810
+ruta remontó siempre coloquen al final
+
+188
+00:09:40,410 --> 00:09:44,550
+un 2 puntos por qué razón es de dos
+
+189
+00:09:42,810 --> 00:09:47,130
+puntos hace referencia a que van a
+
+190
+00:09:44,550 --> 00:09:48,589
+colocar una ruta local remotas acá
+
+191
+00:09:47,130 --> 00:09:51,350
+pueden colocar un cajón
+
+192
+00:09:48,589 --> 00:09:53,540
+slash un tube que la ruta remoto que
+
+193
+00:09:51,350 --> 00:09:55,830
+tenemos y su servidor o simplemente
+
+194
+00:09:53,540 --> 00:09:58,740
+dejen la vacía cuando a esa pastilla
+
+195
+00:09:55,830 --> 00:10:01,200
+para ir directamente al home del usuario
+
+196
+00:09:58,740 --> 00:10:03,700
+acá no hubo a pedir más contraseña y
+
+197
+00:10:01,200 --> 00:10:06,970
+me hice quilaco pilar chico me voy a
+
+198
+00:10:03,700 --> 00:10:08,550
+pasar a mi servidor de ustedes tienen
+
+199
+00:10:06,970 --> 00:10:12,370
+que fijarse en dónde estoy parado estoy
+
+200
+00:10:08,550 --> 00:10:16,810
+mi servidor y cuando algún ende en el
+
+201
+00:10:12,370 --> 00:10:19,170
+usuario un ducto ni aparece el archivo
+
+202
+00:10:16,810 --> 00:10:21,980
+que yo acabo de suyo va a subir otros a
+
+203
+00:10:19,170 --> 00:10:25,120
+hacer en configuraciones no solamente es
+
+204
+00:10:21,980 --> 00:10:27,399
+a una subir otros porque tengo claro que
+
+205
+00:10:25,120 --> 00:10:29,589
+a menudo acopiar ustedes y esperamos
+
+206
+00:10:27,399 --> 00:10:31,430
+traerles porque yo tengo diferentes
+
+207
+00:10:29,589 --> 00:10:36,440
+archivos que tengo tres archivos acá
+
+208
+00:10:31,430 --> 00:10:39,920
+por un dock pagos 21.22 este punto y son
+
+209
+00:10:36,440 --> 00:10:42,430
+como intel o asterisco que las 6,10 voy
+
+210
+00:10:39,920 --> 00:10:49,860
+a copiar todo lo que comicidad allí
+
+211
+00:10:42,430 --> 00:10:51,870
+entonces ustedes pueden fijarse serían
+
+212
+00:10:49,860 --> 00:10:55,450
+y que en este momento con tres archivos
+
+213
+00:10:51,870 --> 00:10:56,829
+al servidor remoto con el sínodo a
+
+214
+00:10:55,450 --> 00:10:58,190
+remitir nosotros enviar o recibir
+
+215
+00:10:56,829 --> 00:11:00,050
+archivos
+
+216
+00:10:58,190 --> 00:11:04,730
+si yo quiero devolver un archivo del
+
+217
+00:11:00,050 --> 00:11:07,200
+servidor remoto hacia el equipo local
+
+218
+00:11:04,730 --> 00:11:10,500
+yo cambio es para menos siempre vienen
+
+219
+00:11:07,200 --> 00:11:12,740
+ssp en la llave y el lugar donde está
+
+220
+00:11:10,500 --> 00:11:15,010
+la información y adonde la quiero
+
+221
+00:11:12,740 --> 00:11:17,070
+copiar es muy parecido con el comando cp
+
+222
+00:11:15,010 --> 00:11:20,040
+entonces si yo quiero bajar un archivo
+
+223
+00:11:17,070 --> 00:11:22,079
+lo que yo hago es cambiar acaba la
+
+224
+00:11:20,040 --> 00:11:25,970
+información y le digo voy a copiar el
+
+225
+00:11:22,079 --> 00:11:28,329
+archivo real modo su álbum duck y luego
+
+226
+00:11:25,970 --> 00:11:31,750
+ya copiar en el directorio local llamado
+
+227
+00:11:28,329 --> 00:11:34,470
+slash tmb acá voy a comprar un ser vivo
+
+228
+00:11:31,750 --> 00:11:38,579
+en un archivo remoto y luego ya
+
+229
+00:11:34,470 --> 00:11:42,120
+descargar aserca bien viva ya tengo mis
+
+230
+00:11:38,579 --> 00:11:46,980
+archivos que están en el servidor
+
+231
+00:11:42,120 --> 00:11:51,900
+subires otros dos archivos a asu a la
+
+232
+00:11:46,980 --> 00:11:51,900
+creación permite ni un minuto por favor
+
+233
+00:11:58,860 --> 00:12:01,909
+[Música]
+
+234
+00:12:07,950 --> 00:12:13,940
+adiós tan bueno estar son los tres
+
+235
+00:12:10,410 --> 00:12:15,780
+archivos que vamos a utilizar
+
+236
+00:12:13,940 --> 00:12:17,800
+hay tres mochilas jazzístico para qué
+
+237
+00:12:15,780 --> 00:12:19,740
+sirven los tres grandes que son entes
+
+238
+00:12:17,800 --> 00:12:21,180
+monto isar 1 pero los otros dos les van
+
+239
+00:12:19,740 --> 00:12:23,260
+a ayudar a ustedes con los mimos
+
+240
+00:12:21,180 --> 00:12:24,630
+configuraciones y vamos a ver es
+
+241
+00:12:23,260 --> 00:12:27,000
+contenido que tiene uno de estos
+
+242
+00:12:24,630 --> 00:12:29,830
+archivos
+
+243
+00:12:27,000 --> 00:12:33,550
+vamos a ver primero qué es lo que dos
+
+244
+00:12:29,830 --> 00:12:34,340
+que ya que vamos a utilizar el día 2 es
+
+245
+00:12:33,550 --> 00:12:37,710
+los unas increíbles
+
+246
+00:12:34,340 --> 00:12:39,510
+el escrito es una serie de comandos que
+
+247
+00:12:37,710 --> 00:12:42,490
+se ejecutan en el sistema
+
+248
+00:12:39,510 --> 00:12:46,340
+en este caso el script está basado en
+
+249
+00:12:42,490 --> 00:12:50,340
+ese archivo vas pueden usarlo y tiene
+
+250
+00:12:46,340 --> 00:12:54,840
+unos variables globales las variables en
+
+251
+00:12:50,340 --> 00:12:56,250
+bases urbanas a variables siempre tengan
+
+252
+00:12:54,840 --> 00:12:58,070
+referencia aquí los van a colocar
+
+253
+00:12:56,250 --> 00:13:00,230
+mayúsculas es un oso acción
+
+254
+00:12:58,070 --> 00:13:03,440
+eso simplemente es una anotación la
+
+255
+00:13:00,230 --> 00:13:05,690
+variable viene de esta forma variables y
+
+256
+00:13:03,440 --> 00:13:08,360
+entre comillas no sin comillas para en
+
+257
+00:13:05,690 --> 00:13:11,670
+colocar lo que significa labores en el
+
+258
+00:13:08,360 --> 00:13:13,940
+picasso el toreable lo que significan en
+
+259
+00:13:11,670 --> 00:13:17,210
+la interfaz y cada internet
+
+260
+00:13:13,940 --> 00:13:19,280
+voy a revisar in servidor keys o en la
+
+261
+00:13:17,210 --> 00:13:22,220
+configuración que yo tengo como 'no que
+
+262
+00:13:19,280 --> 00:13:26,390
+le rodea y sosteniendo que rey ir y ese
+
+263
+00:13:22,220 --> 00:13:29,820
+confín y me dice que yo tengo la
+
+264
+00:13:26,390 --> 00:13:32,920
+parejita y de hachís 0 y está el del
+
+265
+00:13:29,820 --> 00:13:35,340
+inpec ti me hizo también por favor no
+
+266
+00:13:32,920 --> 00:13:38,850
+confundan la inpec y tiene la tarjeta
+
+267
+00:13:35,340 --> 00:13:41,100
+con la ip nuba al cole y ve que tenían
+
+268
+00:13:38,850 --> 00:13:44,440
+un configurada para acceder al serbio la
+
+269
+00:13:41,100 --> 00:13:47,830
+dirección ip global que estén en sus
+
+270
+00:13:44,440 --> 00:13:52,330
+equipos en la 54 oede le sirvieron es de
+
+271
+00:13:47,830 --> 00:13:54,870
+54.80 y siete puntos 184.2 27 pero la
+
+272
+00:13:52,330 --> 00:13:57,080
+impericia del equipo es la que nos
+
+273
+00:13:54,870 --> 00:14:00,390
+interesa en este momento qué es esto
+
+274
+00:13:57,080 --> 00:14:03,340
+entonces la vamos a copiar te alabamos a
+
+275
+00:14:00,390 --> 00:14:05,110
+configurar dentro de nuestro es que como
+
+276
+00:14:03,340 --> 00:14:07,460
+tal todos vamos a empezar a modificar
+
+277
+00:14:05,110 --> 00:14:11,290
+ese screen vamos a lo vamos a dejar
+
+278
+00:14:07,460 --> 00:14:13,019
+allí igual no tiene un inconveniente
+
+279
+00:14:11,290 --> 00:14:20,259
+la interfaz está bien y tihange y
+
+280
+00:14:13,019 --> 00:14:23,180
+cerró en 1 cnd aipe que estanis
+
+281
+00:14:20,259 --> 00:14:24,930
+interfaz de reyes en bengo ravell do
+
+282
+00:14:23,180 --> 00:14:30,889
+insatisfecho un proveedor de servicio en
+
+283
+00:14:24,930 --> 00:14:33,980
+colombia un proveedor de internet y acá
+
+284
+00:14:30,889 --> 00:14:36,329
+vienen una configuración de los puertos
+
+285
+00:14:33,980 --> 00:14:38,910
+que yo voy a abrir en mi sistema tú y
+
+286
+00:14:36,329 --> 00:14:41,970
+yo tengo configuran dos puestos para
+
+287
+00:14:38,910 --> 00:14:45,329
+puertos de tipo test event y por los de
+
+288
+00:14:41,970 --> 00:14:47,990
+tipo cougar en los puertos de tipo test
+
+289
+00:14:45,329 --> 00:14:50,180
+en 20 sexpe es un estado que permite
+
+290
+00:14:47,990 --> 00:14:53,319
+mantener conexiones siempre abiertos
+
+291
+00:14:50,180 --> 00:14:55,720
+unen payne no sabemos si cuando mandamos
+
+292
+00:14:53,319 --> 00:14:58,440
+los datos son recibidos o no entonces
+
+293
+00:14:55,720 --> 00:15:00,560
+para cada uno en información diferente
+
+294
+00:14:58,440 --> 00:15:02,050
+la mayoría de puertos la mayoría de
+
+295
+00:15:00,560 --> 00:15:05,699
+protocolos que ustedes península el
+
+296
+00:15:02,050 --> 00:15:11,430
+día normal son disipen protocolos como
+
+297
+00:15:05,699 --> 00:15:14,630
+bittorrent o a algo pero spain utilizan
+
+298
+00:15:11,430 --> 00:15:17,310
+casi siempre en puertos y de peña que
+
+299
+00:15:14,630 --> 00:15:22,579
+permiten conexiones entre equipos y
+
+300
+00:15:17,310 --> 00:15:24,339
+sincero monitorea los que estuve
+
+301
+00:15:22,579 --> 00:15:29,040
+utilizar yo a dejar los cuerpos abiertos
+
+302
+00:15:24,339 --> 00:15:30,660
+2280 443 y 180 y el 0 22 82 80 son
+
+303
+00:15:29,040 --> 00:15:33,540
+puertos que yo creo que en este momento
+
+304
+00:15:30,660 --> 00:15:35,279
+obligatorio dejar el porto en pienso si
+
+305
+00:15:33,540 --> 00:15:37,139
+yo no dejo el porto en dios abierto
+
+306
+00:15:35,279 --> 00:15:39,290
+cuando ocurra el descrito
+
+307
+00:15:37,139 --> 00:15:40,910
+automáticamente me a matarla conexiones
+
+308
+00:15:39,290 --> 00:15:43,389
+y se ha hecho y yo no me va a poder
+
+309
+00:15:40,910 --> 00:15:45,709
+conectar a mis envíos con yuste de
+
+310
+00:15:43,389 --> 00:15:47,620
+mucho cuidado con esto muchas veces en
+
+311
+00:15:45,709 --> 00:15:51,089
+mimos a fallas en los sistemas
+
+312
+00:15:47,620 --> 00:15:51,089
+simplemente porque
+
+313
+00:15:52,029 --> 00:15:56,359
+no configura no tiene un puerto o no
+
+314
+00:15:54,809 --> 00:15:58,659
+sabemos cuán tenemos la por la
+
+315
+00:15:56,359 --> 00:16:01,109
+condición por el puerto 22 abierta
+
+316
+00:15:58,659 --> 00:16:03,529
+corremos un polvo él lo ejecutamos y
+
+317
+00:16:01,109 --> 00:16:06,319
+nos quedamos sin conexión y la única
+
+318
+00:16:03,529 --> 00:16:09,589
+forma de acceder me oyes amizián de la
+
+319
+00:16:06,319 --> 00:16:12,059
+máquina o apagando la máquina de forma
+
+320
+00:16:09,589 --> 00:16:14,039
+local 2 a viendo la maquinita
+
+321
+00:16:12,059 --> 00:16:17,179
+aprendiendo de maquinita y así nuestra
+
+322
+00:16:14,039 --> 00:16:21,069
+configuración en el foro él hay algo
+
+323
+00:16:17,179 --> 00:16:23,069
+llamado las políticas por defecto por
+
+324
+00:16:21,069 --> 00:16:25,159
+un muy importante que ustedes entiendan
+
+325
+00:16:23,069 --> 00:16:29,909
+que en este momento vamos a dejar todo
+
+326
+00:16:25,159 --> 00:16:32,339
+lo que ha de la paz esto va a restringir
+
+327
+00:16:29,909 --> 00:16:36,839
+absolutamente todo por consiguiente todo
+
+328
+00:16:32,339 --> 00:16:40,049
+va a ser rechazado y yo no me va a poder
+
+329
+00:16:36,839 --> 00:16:42,279
+nunca íbamos a empezar a revisar
+
+330
+00:16:40,049 --> 00:16:44,599
+algunas series de comandos el plus
+
+331
+00:16:42,279 --> 00:16:46,909
+significa limpiar todas las tallas del
+
+332
+00:16:44,599 --> 00:16:49,119
+sistema o todas las tablas los pagos de
+
+333
+00:16:46,909 --> 00:16:51,329
+estados unidos nada conocer y arreglos
+
+334
+00:16:49,119 --> 00:16:53,619
+entonces regla 1 regla lord latre de
+
+335
+00:16:51,329 --> 00:16:56,789
+regla 4 y así sucesivamente
+
+336
+00:16:53,619 --> 00:16:58,559
+cuando ustedes colocan esto el candín y
+
+337
+00:16:56,789 --> 00:17:01,199
+'no cualquier configuración que haya
+
+338
+00:16:58,559 --> 00:17:01,669
+antes del pago en y con ello van a
+
+339
+00:17:01,199 --> 00:17:05,289
+limpiar
+
+340
+00:17:01,669 --> 00:17:06,669
+vamos a crear una tabla que lavamos los
+
+341
+00:17:05,289 --> 00:17:09,649
+desear después
+
+342
+00:17:06,669 --> 00:17:11,879
+esto me permite a mí conectarme
+
+343
+00:17:09,649 --> 00:17:15,009
+conexiones que ya en tormenta policías
+
+344
+00:17:11,879 --> 00:17:16,749
+me permite a mí mantener conexiones
+
+345
+00:17:15,009 --> 00:17:20,369
+si yo llego es correr algún sistema
+
+346
+00:17:16,749 --> 00:17:21,679
+encima o correr en un paro en sí ya que
+
+347
+00:17:20,369 --> 00:17:24,139
+no lo que me de comunicación
+
+348
+00:17:21,679 --> 00:17:26,029
+establecía y no me daba a bloquear o
+
+349
+00:17:24,139 --> 00:17:28,289
+conciertos importante y vamos que por
+
+350
+00:17:26,029 --> 00:17:30,360
+seguridad para cuándo un 2
+
+351
+00:17:28,289 --> 00:17:31,950
+modificamos algo el fuego el inter
+
+352
+00:17:30,360 --> 00:17:33,799
+máxima comunicaciones
+
+353
+00:17:31,950 --> 00:17:37,309
+adicionalmente voy a permitir todo lo
+
+354
+00:17:33,799 --> 00:17:41,360
+que venga del la interfaz local que lo
+
+355
+00:17:37,309 --> 00:17:43,789
+que pasa si yo coloco cancio a rechazar
+
+356
+00:17:41,360 --> 00:17:46,720
+todas las comunicaciones hasta el local
+
+357
+00:17:43,789 --> 00:17:48,490
+yo no me puedo comunicar con esta regla
+
+358
+00:17:46,720 --> 00:17:51,059
+es muy importante que este es de quien
+
+359
+00:17:48,490 --> 00:17:54,559
+lo utilicen para poderse comunicar de
+
+360
+00:17:51,059 --> 00:17:58,869
+forma local y luego voy a abrir muertos
+
+361
+00:17:54,559 --> 00:18:00,869
+yo cerré todo y por defecto y luego
+
+362
+00:17:58,869 --> 00:18:01,320
+empezar a vivir porque acá en esta
+
+363
+00:18:00,869 --> 00:18:03,070
+línea
+
+364
+00:18:01,320 --> 00:18:05,269
+voy a abrir puertos de tipo de césped
+
+365
+00:18:03,070 --> 00:18:09,000
+inalim inmediatamente voy a abrir
+
+366
+00:18:05,269 --> 00:18:09,000
+puertos de tipos
+
+367
+00:18:11,610 --> 00:18:17,919
+esta regla que es para acá es lo que me
+
+368
+00:18:15,049 --> 00:18:23,880
+todo lo que estoy por al a rechazar de
+
+369
+00:18:17,919 --> 00:18:25,970
+la tabla lo y luego estatalistas el
+
+370
+00:18:23,880 --> 00:18:28,960
+ahora social a todos lo que indra
+
+371
+00:18:25,970 --> 00:18:31,149
+sistema y todos que va a ir hacia otros
+
+372
+00:18:28,960 --> 00:18:33,429
+sistemas existentes políticas normales
+
+373
+00:18:31,149 --> 00:18:35,929
+de un pago de lo que ingresas de equipo
+
+374
+00:18:33,429 --> 00:18:38,240
+lo que sale del equipo y lo que king
+
+375
+00:18:35,929 --> 00:18:40,789
+equipo cuando ingresa luego a enviar a
+
+376
+00:18:38,240 --> 00:18:43,330
+otro computador esas tres reglas o y
+
+377
+00:18:40,789 --> 00:18:45,659
+sastres digamos acciones son muy
+
+378
+00:18:43,330 --> 00:18:49,950
+importantes que usted argentina no hay
+
+379
+00:18:45,659 --> 00:18:49,950
+pagos o cortafuegos todo
+
+380
+00:19:45,100 --> 00:19:50,420
+[Música]
+
+381
+00:19:47,670 --> 00:19:54,300
+va a restringir absolutamente todo por
+
+382
+00:19:50,420 --> 00:19:57,170
+consiguiente esto pues esto me permite a
+
+383
+00:19:54,300 --> 00:19:59,780
+mí conectarme conexiones que ya están
+
+384
+00:19:57,170 --> 00:20:01,130
+estables y as me permite a mí mantener
+
+385
+00:19:59,780 --> 00:20:02,860
+conexiones
+
+386
+00:20:01,130 --> 00:20:06,400
+si yo llego es correr algún sistema
+
+387
+00:20:02,860 --> 00:20:07,790
+encima o correr en un palmo el sí ya
+
+388
+00:20:06,400 --> 00:20:10,230
+tengo la comitiva comunicación
+
+389
+00:20:07,790 --> 00:20:12,140
+establecía y no me daba a bloquear
+
+390
+00:20:10,230 --> 00:20:14,400
+conciertos importante y vamos que por
+
+391
+00:20:12,140 --> 00:20:16,720
+seguridad para cuándo un 2
+
+392
+00:20:14,400 --> 00:20:17,600
+modificamos agolpado el inter tenemos
+
+393
+00:20:16,720 --> 00:20:19,910
+una comunicación
+
+394
+00:20:17,600 --> 00:20:23,430
+adicionalmente voy a permitir todo lo
+
+395
+00:20:19,910 --> 00:20:26,470
+que venga del la interfase local que lo
+
+396
+00:20:23,430 --> 00:20:28,960
+que pasa si yo coloco conoció a
+
+397
+00:20:26,470 --> 00:20:29,680
+rechazar todas las comunicaciones hasta
+
+398
+00:20:28,960 --> 00:20:33,070
+el local
+
+399
+00:20:29,680 --> 00:20:35,320
+yo me puedo comunicar con esta regla es
+
+400
+00:20:33,070 --> 00:20:37,240
+muy importante que este es de quien lo
+
+401
+00:20:35,320 --> 00:20:40,930
+utilicen para poderse comunicar de forma
+
+402
+00:20:37,240 --> 00:20:44,980
+local y luego voy a abrir ni muertos
+
+403
+00:20:40,930 --> 00:20:46,980
+yo cerré todo y por defecto y luego
+
+404
+00:20:44,980 --> 00:20:47,430
+empezar a abrir porque acá en esta
+
+405
+00:20:46,980 --> 00:20:49,520
+línea
+
+406
+00:20:47,430 --> 00:20:51,420
+voy a abrir puertos de tipo de gente y
+
+407
+00:20:49,520 --> 00:20:59,190
+no lee miller también te voy a abrir
+
+408
+00:20:51,420 --> 00:21:02,430
+puertos de tipos en tarrina que está
+
+409
+00:20:59,190 --> 00:21:05,650
+acá lo queme todo lo que después bojan
+
+410
+00:21:02,430 --> 00:21:10,230
+a rechazar de la tabla
+
+411
+00:21:05,650 --> 00:21:13,090
+locke y luego estatalistas y la hoya
+
+412
+00:21:10,230 --> 00:21:15,240
+social a todos lo que indra sistema y
+
+413
+00:21:13,090 --> 00:21:17,440
+todo lo que va a ir hacia otro sistema
+
+414
+00:21:15,240 --> 00:21:20,280
+existe interés políticas normales de
+
+415
+00:21:17,440 --> 00:21:22,620
+un ford lo que ingresas de equipo lo que
+
+416
+00:21:20,280 --> 00:21:26,020
+sale el equipo y lo que el equipo cuando
+
+417
+00:21:22,620 --> 00:21:27,800
+ingresa lohan ya a otro computador esos
+
+418
+00:21:26,020 --> 00:21:30,430
+tres reglas voices tres y ganó
+
+419
+00:21:27,800 --> 00:21:32,990
+secciones son muy importantes que usted
+
+420
+00:21:30,430 --> 00:21:35,730
+las entiendan en la parte de pagos o
+
+421
+00:21:32,990 --> 00:21:38,190
+cortafuegos todos los foros y nimes los
+
+422
+00:21:35,730 --> 00:21:41,230
+cuartos de entrada es por dos de salida
+
+423
+00:21:38,190 --> 00:21:42,250
+y lo que yo voy a redireccionar a a
+
+424
+00:21:41,230 --> 00:21:45,550
+otros lugares
+
+425
+00:21:42,250 --> 00:21:48,190
+entonces voy a permitir todo lo que vaya
+
+426
+00:21:45,550 --> 00:21:48,190
+hacia fuera
+
+427
+00:21:48,200 --> 00:21:53,860
+salió ambos y no automáticamente
+
+428
+00:21:51,010 --> 00:21:55,620
+cuando yo traté acceder todos por dos
+
+429
+00:21:53,860 --> 00:21:57,860
+semanas caer y no va a poder con
+
+430
+00:21:55,620 --> 00:22:00,250
+nunca y lo último relación hostilizar
+
+431
+00:21:57,860 --> 00:22:01,870
+en es estar en un año vamos a aceptar
+
+432
+00:22:00,250 --> 00:22:05,790
+todas las conexiones por el dopaje
+
+433
+00:22:01,870 --> 00:22:09,420
+por si acaso habíamos cerrado albo para
+
+434
+00:22:05,790 --> 00:22:11,790
+reconfigurar es esto se una un fútbol
+
+435
+00:22:09,420 --> 00:22:13,850
+muy básico estamos bloqueando todos y
+
+436
+00:22:11,790 --> 00:22:15,860
+luego están facilitando las
+
+437
+00:22:13,850 --> 00:22:18,150
+comunicaciones de los puertos e
+
+438
+00:22:15,860 --> 00:22:21,820
+intranquilo quejó
+
+439
+00:22:18,150 --> 00:22:23,559
+cómo puedo saber cuál es el fondo que
+
+440
+00:22:21,820 --> 00:22:27,960
+yo tengo configurado en este momento
+
+441
+00:22:23,559 --> 00:22:29,970
+ustedes deben saber cómo unir que lo
+
+442
+00:22:27,960 --> 00:22:32,440
+que está configurado en vinil equipo en
+
+443
+00:22:29,970 --> 00:22:34,070
+este momento cómo hacer dúos de tovar
+
+444
+00:22:32,440 --> 00:22:37,090
+arreglos que ustedes están configuradas
+
+445
+00:22:34,070 --> 00:22:39,440
+o sea cómo limpiar las tablas del park
+
+446
+00:22:37,090 --> 00:22:41,550
+güell y otra cosa muy importante y si
+
+447
+00:22:39,440 --> 00:22:46,390
+éste deben saber antes de cualquier
+
+448
+00:22:41,550 --> 00:22:49,590
+cosa que un golpe su amigo esto algo él
+
+449
+00:22:46,390 --> 00:22:51,570
+no es algo que se iban las personas
+
+450
+00:22:49,590 --> 00:22:56,040
+todos los días y que eliminen todos los
+
+451
+00:22:51,570 --> 00:22:57,700
+días sean menos preguntar yo como hago
+
+452
+00:22:56,040 --> 00:22:59,590
+estas configuraciones realmente ya
+
+453
+00:22:57,700 --> 00:23:01,800
+inscrito que tengo y explícito de hace
+
+454
+00:22:59,590 --> 00:23:05,040
+muchos años y aún vivos loco loco loco
+
+455
+00:23:01,800 --> 00:23:06,910
+pilot pegó y esto funciona si quiero
+
+456
+00:23:05,040 --> 00:23:09,420
+ser algo especial e introdujo en y
+
+457
+00:23:06,910 --> 00:23:12,559
+buscó cómo hacer ese algo especial en
+
+458
+00:23:09,420 --> 00:23:14,780
+el por un violín porque no son existen
+
+459
+00:23:12,559 --> 00:23:15,900
+muchas reglas y exquisita existen muchas
+
+460
+00:23:14,780 --> 00:23:18,720
+configuraciones
+
+461
+00:23:15,900 --> 00:23:21,220
+existen muchos tipos de saber cuál es
+
+462
+00:23:18,720 --> 00:23:24,660
+el primer encabezado pillen en el
+
+463
+00:23:21,220 --> 00:23:27,660
+protocolo tcp en hasta saber protocolos
+
+464
+00:23:24,660 --> 00:23:28,650
+de capacidad o seat pp é o protocolos
+
+465
+00:23:27,660 --> 00:23:30,470
+de presentación
+
+466
+00:23:28,650 --> 00:23:32,040
+entonces es muy importante que esté si
+
+467
+00:23:30,470 --> 00:23:36,150
+quieren saber más o profesores favor
+
+468
+00:23:32,040 --> 00:23:37,450
+busquen en internet google y su amigo el
+
+469
+00:23:36,150 --> 00:23:40,250
+presunto algo es básico que vamos a
+
+470
+00:23:37,450 --> 00:23:43,860
+configurar y luego sacó reto como es un
+
+471
+00:23:40,250 --> 00:23:48,200
+script vamos a colocar un binario para
+
+472
+00:23:43,860 --> 00:23:50,980
+ejecutar esto entonces el binario
+
+473
+00:23:48,200 --> 00:23:54,070
+vamos a revisar primero los permisos que
+
+474
+00:23:50,980 --> 00:23:58,550
+tienen suscrito se llama por acá abajo
+
+475
+00:23:54,070 --> 00:23:59,440
+un tufo arum 22 no tiene permisos de
+
+476
+00:23:58,550 --> 00:24:01,070
+ejecución
+
+477
+00:23:59,440 --> 00:24:03,790
+por consiguiente si yo lo quiero decir
+
+478
+00:24:01,070 --> 00:24:05,710
+contar sin city 2 0 en qatar de esta
+
+479
+00:24:03,790 --> 00:24:07,760
+forma amena y un tengo permisos
+
+480
+00:24:05,710 --> 00:24:09,000
+voy a colocar el 2 permisos acuérdense
+
+481
+00:24:07,760 --> 00:24:11,870
+que se h
+
+482
+00:24:09,000 --> 00:24:16,710
+el envío de 77 significa lectura
+
+483
+00:24:11,870 --> 00:24:17,740
+escritura y ejecución 55 que ir siete
+
+484
+00:24:16,710 --> 00:24:20,570
+para el usuario
+
+485
+00:24:17,740 --> 00:24:23,940
+5 para el grupo 5 para nosotros el 5
+
+486
+00:24:20,570 --> 00:24:27,850
+significa lectura y ejecución colocó
+
+487
+00:24:23,940 --> 00:24:29,899
+esto y luego de haber otro a veces los
+
+488
+00:24:27,850 --> 00:24:33,480
+permisos que existimos y la pared de
+
+489
+00:24:29,899 --> 00:24:36,100
+color verde si todos los pinares lo que
+
+490
+00:24:33,480 --> 00:24:40,299
+yo pueda ejecutar aparece en color der
+
+491
+00:24:36,100 --> 00:24:45,200
+un ahora sí o ejecutar el script que
+
+492
+00:24:40,299 --> 00:24:50,200
+esta planta y puedo seguir trabajando
+
+493
+00:24:45,200 --> 00:24:54,039
+para ver cómo está en la tabla el pago
+
+494
+00:24:50,200 --> 00:24:57,899
+en inspectivos espacio - n mayúscula y
+
+495
+00:24:54,039 --> 00:25:02,039
+muestra que aquí configura 22 m y c vea
+
+496
+00:24:57,899 --> 00:25:05,909
+en la política que están entrada por
+
+497
+00:25:02,039 --> 00:25:09,669
+defecto está rechazando todos y luego
+
+498
+00:25:05,909 --> 00:25:12,610
+tengo que vaya a un bloque o a otro pub
+
+499
+00:25:09,669 --> 00:25:13,950
+lucky lo cree realmente de cualquier
+
+500
+00:25:12,610 --> 00:25:17,250
+fuente a cualquier destino
+
+501
+00:25:13,950 --> 00:25:20,429
+el forward lo que redireccionar el
+
+502
+00:25:17,250 --> 00:25:23,260
+equipo de un límite a otro equipo en
+
+503
+00:25:20,429 --> 00:25:27,029
+también está yendo a esa inversión y
+
+504
+00:25:23,260 --> 00:25:30,549
+en la salida y se acepten en todo lo que
+
+505
+00:25:27,029 --> 00:25:32,419
+vaya a la local y todo lo que vaya hacia
+
+506
+00:25:30,549 --> 00:25:36,289
+afueras donde eso puede salir
+
+507
+00:25:32,419 --> 00:25:39,440
+absolutamente todo y están testados
+
+508
+00:25:36,289 --> 00:25:40,870
+thalys que lo que pasa por defecto
+
+509
+00:25:39,440 --> 00:25:42,620
+parecen estas press
+
+510
+00:25:40,870 --> 00:25:44,620
+pero yo creo una tabla llamada blog
+
+511
+00:25:42,620 --> 00:25:48,720
+porque lado de utilizar en dos lugares
+
+512
+00:25:44,620 --> 00:25:51,440
+en ningún informe está hoy en inwood y
+
+513
+00:25:48,720 --> 00:25:53,020
+lo hizo en forma entonces por esa razón
+
+514
+00:25:51,440 --> 00:25:56,120
+yo tengo acá o blog
+
+515
+00:25:53,020 --> 00:26:00,850
+y tengo acá lo con eso no tengo que
+
+516
+00:25:56,120 --> 00:26:04,399
+volver a reinscribir 5 6 7 9 10 15 20 y
+
+517
+00:26:00,850 --> 00:26:05,870
+reglas que yo quiero configurar acá me
+
+518
+00:26:04,399 --> 00:26:07,710
+dice que por defecto
+
+519
+00:26:05,870 --> 00:26:09,730
+voy a abrir lo que ya está allí en lo
+
+520
+00:26:07,710 --> 00:26:13,029
+que ya está comunicado
+
+521
+00:26:09,730 --> 00:26:14,320
+adicionalmente voy a permitir la entrada
+
+522
+00:26:13,029 --> 00:26:17,210
+de
+
+523
+00:26:14,320 --> 00:26:20,350
+estos puertos en el puerto un evento de
+
+524
+00:26:17,210 --> 00:26:24,200
+estos puertos y lo demás lo ve al
+
+525
+00:26:20,350 --> 00:26:26,019
+obviar y luego lo voy a rechazar ya con
+
+526
+00:26:24,200 --> 00:26:28,659
+esto tengo la configuración básica mi
+
+527
+00:26:26,019 --> 00:26:30,750
+faro el vamos a hacer una prueba muy
+
+528
+00:26:28,659 --> 00:26:32,340
+sencilla de qué es lo que está
+
+529
+00:26:30,750 --> 00:26:34,700
+haciendo es polvo como yo voy a con
+
+530
+00:26:32,340 --> 00:26:35,639
+figuras voy a morir a cabo tras
+
+531
+00:26:34,700 --> 00:26:41,409
+navegador
+
+532
+00:26:35,639 --> 00:26:45,340
+voy a recargar la página y por defecto
+
+533
+00:26:41,409 --> 00:26:48,710
+a cabo o entrar a mi sencillo porque 80
+
+534
+00:26:45,340 --> 00:26:53,009
+si voy a hacer es cambio un cambio que
+
+535
+00:26:48,710 --> 00:26:54,870
+hoy a restringir el purito 80 que no voy
+
+536
+00:26:53,009 --> 00:26:57,039
+a permitir en y conexiones a portu
+
+537
+00:26:54,870 --> 00:27:01,320
+txento por consiguiente vuelva abrir mi
+
+538
+00:26:57,039 --> 00:27:03,269
+faro en itu por hasta el puerto entra
+
+539
+00:27:01,320 --> 00:27:06,169
+que es lo que en taquilla y que está
+
+540
+00:27:03,269 --> 00:27:08,000
+por defecto en http en que todo el
+
+541
+00:27:06,169 --> 00:27:11,419
+sistema el protocolo de comunicaciones
+
+542
+00:27:08,000 --> 00:27:14,600
+para el navegador y vuelvo a ejecutar es
+
+543
+00:27:11,419 --> 00:27:16,450
+por un importante
+
+544
+00:27:14,600 --> 00:27:18,669
+usted es cuando hagan modificaciones en
+
+545
+00:27:16,450 --> 00:27:21,809
+un script los de envolver a ejecutar el
+
+546
+00:27:18,669 --> 00:27:23,629
+sistema no lo hace de forma automática
+
+547
+00:27:21,809 --> 00:27:26,779
+entonces usted es muy rico un escribe y
+
+548
+00:27:23,629 --> 00:27:28,110
+no vuelven a ejecutar si ustedes no
+
+549
+00:27:26,779 --> 00:27:30,539
+hacen esto por consiguiente nunca
+
+550
+00:27:28,110 --> 00:27:32,110
+banorte reportó sólo ve lo ejecutaran
+
+551
+00:27:30,539 --> 00:27:34,090
+acá voy a comprobar cómo está
+
+552
+00:27:32,110 --> 00:27:37,009
+funcionando esto algo en y 'tablets'
+
+553
+00:27:34,090 --> 00:27:41,490
+espacio menos el de mayúsculas y acá
+
+554
+00:27:37,009 --> 00:27:42,279
+no me aparece ya el http buena mi
+
+555
+00:27:41,490 --> 00:27:46,470
+navegador
+
+556
+00:27:42,279 --> 00:27:49,429
+voy a recargar y ya no me puedo
+
+557
+00:27:46,470 --> 00:27:50,850
+comunicar al servicio este forum les
+
+558
+00:27:49,429 --> 00:27:53,669
+ballón ustedes para pedir una
+
+559
+00:27:50,850 --> 00:27:55,590
+información básica de sus servidores y
+
+560
+00:27:53,669 --> 00:27:58,019
+sumamente permitir el acceso a los
+
+561
+00:27:55,590 --> 00:28:00,679
+puertos que ustedes quieran y utilicen
+
+562
+00:27:58,019 --> 00:28:03,909
+estos cree que los otros dos escritos el
+
+563
+00:28:00,679 --> 00:28:05,529
+paro en 2 1 que está por ahí que yo a
+
+564
+00:28:03,909 --> 00:28:10,190
+subir son simplemente otros
+
+565
+00:28:05,529 --> 00:28:15,259
+configuraciones para servidores están o
+
+566
+00:28:10,190 --> 00:28:17,639
+equipos que están configurados cuando
+
+567
+00:28:15,259 --> 00:28:20,950
+inem un adelanto entonces hay un común
+
+568
+00:28:17,639 --> 00:28:23,379
+rondón que me permite a mí entrar y
+
+569
+00:28:20,950 --> 00:28:25,980
+adicionalmente quiero saber cuáles son
+
+570
+00:28:23,379 --> 00:28:26,809
+las entradas o simplemente me giró
+
+571
+00:28:25,980 --> 00:28:30,200
+también restricciones
+
+572
+00:28:26,809 --> 00:28:34,759
+la salida de la información ejemplo en
+
+573
+00:28:30,200 --> 00:28:36,840
+este caso lo que tengo de en es un un un
+
+574
+00:28:34,759 --> 00:28:39,700
+un farol test basado año anterior que
+
+575
+00:28:36,840 --> 00:28:41,720
+les mostré caminos por donde entra en
+
+576
+00:28:39,700 --> 00:28:44,499
+portugués al día pero adicionalmente
+
+577
+00:28:41,720 --> 00:28:46,539
+se le agrega la interfaz locales
+
+578
+00:28:44,499 --> 00:28:48,700
+interfaz local lo que va a hacer es que
+
+579
+00:28:46,539 --> 00:28:51,499
+va a recibir comunicaciones a xxi y
+
+580
+00:28:48,700 --> 00:28:54,240
+recoder se va a salir y por acá hay un
+
+581
+00:28:51,499 --> 00:28:56,309
+cupo de son los puertos de salinidad o
+
+582
+00:28:54,240 --> 00:28:58,600
+en los lo que yo quiero que salga porque
+
+583
+00:28:56,309 --> 00:29:00,980
+efecto a internet con él y yo puedo
+
+584
+00:28:58,600 --> 00:29:04,240
+recibir también cenó una persona
+
+585
+00:29:00,980 --> 00:29:05,990
+/ ap que el pd o cuando yo quiero tengo
+
+586
+00:29:04,240 --> 00:29:07,990
+un colegio o universidad
+
+587
+00:29:05,990 --> 00:29:10,110
+no quiero que nada y quien en otro
+
+588
+00:29:07,990 --> 00:29:12,070
+puerto que no seáis por inter 443 de
+
+589
+00:29:10,110 --> 00:29:15,129
+forma segura o que todo sea por el
+
+590
+00:29:12,070 --> 00:29:17,470
+puesto 82 estas configuraciones son para
+
+591
+00:29:15,129 --> 00:29:19,860
+que éste la revisión en el bloc uno
+
+592
+00:29:17,470 --> 00:29:22,090
+hace lo mismo pero a aldea craig a
+
+593
+00:29:19,860 --> 00:29:23,440
+permitir toala salía cuando ustedes
+
+594
+00:29:22,090 --> 00:29:25,090
+están en cara interna que eso
+
+595
+00:29:23,440 --> 00:29:27,720
+simplemente para que éste les permita
+
+596
+00:29:25,090 --> 00:29:28,909
+ayudar les permita configurar otras
+
+597
+00:29:27,720 --> 00:29:32,240
+cosas
+
+598
+00:29:28,909 --> 00:29:32,730
+pruébenlo úsenlo cintos negros suárez
+
+599
+00:29:32,240 --> 00:29:34,879
+escribe
+
+600
+00:29:32,730 --> 00:29:39,409
+no es algo no es un misterio que está a
+
+601
+00:29:34,879 --> 00:29:40,850
+parís y lo último que ésta es de 11
+
+602
+00:29:39,409 --> 00:29:43,519
+ahora informó el esquí cada vez que
+
+603
+00:29:40,850 --> 00:29:45,690
+esta reunión la máxima siempre se va a
+
+604
+00:29:43,519 --> 00:29:48,490
+perder la información disparó él sino
+
+605
+00:29:45,690 --> 00:29:49,759
+la guardia de forma persistente como
+
+606
+00:29:48,490 --> 00:29:52,019
+así se guardan en forma persistente
+
+607
+00:29:49,759 --> 00:29:54,259
+pueden colocar en sí mismo
+
+608
+00:29:52,019 --> 00:29:56,850
+escrit estaba allí cada vez que se
+
+609
+00:29:54,259 --> 00:29:59,679
+inició el sistema se debe ejecutar si
+
+610
+00:29:56,850 --> 00:30:01,369
+no se ejecuta por defecto no van a poder
+
+611
+00:29:59,679 --> 00:30:03,850
+ustedes es terminar este favor
+
+612
+00:30:01,369 --> 00:30:06,320
+configurado en la sistemas ubuntu y
+
+613
+00:30:03,850 --> 00:30:11,240
+nebbia empeoren las últimas bernés
+
+614
+00:30:06,320 --> 00:30:14,240
+también existe un paquetico llamado
+
+615
+00:30:11,240 --> 00:30:14,240
+persista
+
+616
+00:30:18,990 --> 00:30:23,560
+él nos va a permitir
+
+617
+00:30:20,550 --> 00:30:27,420
+mentira nosotros configurar de forma
+
+618
+00:30:23,560 --> 00:30:28,400
+persistente y el forum prohibamos
+
+619
+00:30:27,420 --> 00:30:30,060
+instalarlo
+
+620
+00:30:28,400 --> 00:30:33,430
+acuérdense por instalar un paquete
+
+621
+00:30:30,060 --> 00:30:35,730
+lapentti menús que pareció install en
+
+622
+00:30:33,430 --> 00:30:40,380
+espacio y testigos
+
+623
+00:30:35,730 --> 00:30:42,750
+espacio de arte asistentes que lo deseen
+
+624
+00:30:40,380 --> 00:30:44,270
+instalar sí y esto me ha preguntado
+
+625
+00:30:42,750 --> 00:30:48,060
+algo muy interesantes
+
+626
+00:30:44,270 --> 00:30:50,480
+usted desea guardar por defecto las
+
+627
+00:30:48,060 --> 00:30:52,200
+configuraciones que están puestas o que
+
+628
+00:30:50,480 --> 00:30:55,190
+están configurados en este momento de
+
+629
+00:30:52,200 --> 00:30:59,050
+hoy el 'chino' para inversión 4 y para
+
+630
+00:30:55,190 --> 00:31:02,440
+y ver y beberse un 6 lo colocan y
+
+631
+00:30:59,050 --> 00:31:05,210
+colócala reglas y voy a ver tiempo y lo
+
+632
+00:31:02,440 --> 00:31:07,570
+que configura entonces acuérdense dos
+
+633
+00:31:05,210 --> 00:31:10,190
+configuraciones están en el celular en
+
+634
+00:31:07,570 --> 00:31:15,560
+que se por acá está mi propia mitad
+
+635
+00:31:10,190 --> 00:31:16,970
+sí y festivos no me dijo nada cuando en
+
+636
+00:31:15,560 --> 00:31:18,740
+cuando deja algo siempre va a tener
+
+637
+00:31:16,970 --> 00:31:21,020
+información ahí si ustedes quieren
+
+638
+00:31:18,740 --> 00:31:24,620
+saber algo más sobre este paquete a
+
+639
+00:31:21,020 --> 00:31:26,940
+cuáles que hay documentación que esta
+
+640
+00:31:24,620 --> 00:31:31,020
+obra está siempre van a encontrar
+
+641
+00:31:26,940 --> 00:31:32,560
+ustedes eso y hay un ring y dice vean
+
+642
+00:31:31,020 --> 00:31:34,720
+ustedes pueden hacer y la configuración
+
+643
+00:31:32,560 --> 00:31:36,600
+que está acá si ustedes quieren salvar
+
+644
+00:31:34,720 --> 00:31:39,470
+una configuración que ya está pueden
+
+645
+00:31:36,600 --> 00:31:40,970
+ejecutar esto efectivamente o ejecutar
+
+646
+00:31:39,470 --> 00:31:43,300
+esa es destrucción
+
+647
+00:31:40,970 --> 00:31:48,430
+la instrucción se va a ejecutar es
+
+648
+00:31:43,300 --> 00:31:51,870
+vista entonces y testigos de las 76 y
+
+649
+00:31:48,430 --> 00:31:53,990
+nick punto de testigos persiste va a
+
+650
+00:31:51,870 --> 00:31:56,340
+pasar a mi segundo concepto que es donde
+
+651
+00:31:53,990 --> 00:31:59,180
+están los servicios objetivos y misión
+
+652
+00:31:56,340 --> 00:32:02,980
+en el sistema siempre se van a almacenar
+
+653
+00:31:59,180 --> 00:32:05,010
+acá en las 36 y mil puntos de
+
+654
+00:32:02,980 --> 00:32:05,840
+visitantes en su en algunos de
+
+655
+00:32:05,010 --> 00:32:07,780
+instrucciones
+
+656
+00:32:05,840 --> 00:32:11,700
+es importante que revisen donde quieran
+
+657
+00:32:07,780 --> 00:32:14,300
+y existen diferentes momentos del
+
+658
+00:32:11,700 --> 00:32:16,240
+arranque el sistema si cada uno carga y
+
+659
+00:32:14,300 --> 00:32:16,980
+allí entonces por revisión de su
+
+660
+00:32:16,240 --> 00:32:19,650
+distribución
+
+661
+00:32:16,980 --> 00:32:22,800
+cómo se llama ente y mi punto de hoy
+
+662
+00:32:19,650 --> 00:32:25,520
+los arranques o llamadas del sistema que
+
+663
+00:32:22,800 --> 00:32:28,050
+se utilizan normalmente no sistema lynch
+
+664
+00:32:25,520 --> 00:32:29,550
+el muy importante que ustedes aprendan a
+
+665
+00:32:28,050 --> 00:32:31,929
+identificar dónde están los scripts de
+
+666
+00:32:29,550 --> 00:32:34,720
+inicio o de para del
+
+667
+00:32:31,929 --> 00:32:37,149
+ap sistema porque efecto en de bien
+
+668
+00:32:34,720 --> 00:32:41,659
+simplona y el todo usted estos casos
+
+669
+00:32:37,149 --> 00:32:43,899
+ejemplo de lo que está aquí que cuando
+
+670
+00:32:41,659 --> 00:32:47,029
+instalamos el apache el día de ayer
+
+671
+00:32:43,899 --> 00:32:49,690
+está por acá no sé cuándo esto damos
+
+672
+00:32:47,029 --> 00:32:52,580
+más y en el día de ayer va a dejar un
+
+673
+00:32:49,690 --> 00:32:54,990
+exquisito por acá también y cada uno
+
+674
+00:32:52,580 --> 00:32:59,190
+de esos son 'servicios que el inicial
+
+675
+00:32:54,990 --> 00:33:00,720
+para poder ustedes ejecutará mucho
+
+676
+00:32:59,190 --> 00:33:03,499
+esperamos y que técnicos y turba de
+
+677
+00:33:00,720 --> 00:33:05,090
+mateo bejar tomen aquí sí y debo decir
+
+678
+00:33:03,499 --> 00:33:05,470
+que me salve la configuración que yo
+
+679
+00:33:05,090 --> 00:33:07,929
+tengo
+
+680
+00:33:05,470 --> 00:33:10,360
+él me dice acá hoy salvar las reglas
+
+681
+00:33:07,929 --> 00:33:12,970
+huélamo miran lo que están en el
+
+682
+00:33:10,360 --> 00:33:16,119
+archivo el 16 en la isla directorio en
+
+683
+00:33:12,970 --> 00:33:18,570
+que se limite y bush y aparecen dos
+
+684
+00:33:16,119 --> 00:33:19,029
+reinos reglas versión 462 versión
+
+685
+00:33:18,570 --> 00:33:22,379
+salles
+
+686
+00:33:19,029 --> 00:33:26,299
+yo puedo ver cualquiera de esos archivos
+
+687
+00:33:22,379 --> 00:33:30,600
+y el por qué aspecto ya me construyó
+
+688
+00:33:26,299 --> 00:33:33,259
+de forma delictiva y hemos analizado que
+
+689
+00:33:30,600 --> 00:33:34,509
+estaba río en memoria los cuales unas
+
+690
+00:33:33,259 --> 00:33:37,539
+reglas que yo le dije que si me en
+
+691
+00:33:34,509 --> 00:33:40,789
+configurar en lo deja listo para usa
+
+692
+00:33:37,539 --> 00:33:43,619
+cada existe reinició el sistema van a
+
+693
+00:33:40,789 --> 00:33:45,129
+tener la información allí y esto es lo
+
+694
+00:33:43,619 --> 00:33:46,590
+que les va a permitir hosteles no
+
+695
+00:33:45,129 --> 00:33:50,499
+tenían dónde hay un día te correr un
+
+696
+00:33:46,590 --> 00:33:53,119
+script independiente ejemplo el cambio
+
+697
+00:33:50,499 --> 00:33:55,610
+para abril otras sport 80 voy a ir a
+
+698
+00:33:53,119 --> 00:33:58,409
+miss clips y lo que tenemos que
+
+699
+00:33:55,610 --> 00:34:01,619
+estábamos trabajando hace un rato voy a
+
+700
+00:33:58,409 --> 00:34:05,919
+abrirse a la ss archivo y voy a volver a
+
+701
+00:34:01,619 --> 00:34:09,179
+permitir el acceso al puerto 85 y mente
+
+702
+00:34:05,919 --> 00:34:13,119
+de crudo que una coma puerto como un 80
+
+703
+00:34:09,179 --> 00:34:18,250
+guardo acuerdo y se ejecutó otra veces
+
+704
+00:34:13,119 --> 00:34:20,690
+escriben para verificar cómo quedaron
+
+705
+00:34:18,250 --> 00:34:23,319
+las reglas colo colo y que te impulse
+
+706
+00:34:20,690 --> 00:34:25,819
+este espacio - n mayúscula y me dice a
+
+707
+00:34:23,319 --> 00:34:28,740
+cancha creo que el puerto 80 luego ya
+
+708
+00:34:25,819 --> 00:34:31,359
+salvar de forma persistente
+
+709
+00:34:28,740 --> 00:34:33,270
+el fuego que ya digo configurada en el
+
+710
+00:34:31,359 --> 00:34:36,490
+momento se estudian colocar una serie de
+
+711
+00:34:33,270 --> 00:34:38,800
+arreglos y pueden salvar lo que tienen
+
+712
+00:34:36,490 --> 00:34:40,970
+configurado allí
+
+713
+00:34:38,800 --> 00:34:44,750
+ya que observamos voy a ver cómo
+
+714
+00:34:40,970 --> 00:34:47,560
+quedaron las reglas de inversión 4 y
+
+715
+00:34:44,750 --> 00:34:51,270
+por acá está abierto el puerto 80
+
+716
+00:34:47,560 --> 00:34:55,270
+si yo era mi navegador y y recargos por
+
+717
+00:34:51,270 --> 00:35:00,430
+acá ya oído que es el puerto 80 que
+
+718
+00:34:55,270 --> 00:35:01,970
+antes estaban restitución entonces esto
+
+719
+00:35:00,430 --> 00:35:04,170
+es muy importante para que estéis
+
+720
+00:35:01,970 --> 00:35:06,250
+entiendan que pueden cómo pueden
+
+721
+00:35:04,170 --> 00:35:09,460
+configurar en su aro el vi cómo pueden
+
+722
+00:35:06,250 --> 00:35:14,070
+cerrar así asegurar algo muy sencillo
+
+723
+00:35:09,460 --> 00:35:17,110
+el paro en todas las distribuciones
+
+724
+00:35:14,070 --> 00:35:20,220
+funciona sobre ip 'tablet' en salgo muy
+
+725
+00:35:17,110 --> 00:35:23,400
+estándar y todas las reglas son iguales
+
+726
+00:35:20,220 --> 00:35:25,640
+en todas las distribuciones en cada una
+
+727
+00:35:23,400 --> 00:35:29,240
+tiene una forma diferente para almacenar
+
+728
+00:35:25,640 --> 00:35:31,340
+el proxy que pena el pago en ifa rey
+
+729
+00:35:29,240 --> 00:35:34,220
+existen están viendo cada uno maneja
+
+730
+00:35:31,340 --> 00:35:37,700
+diferentes busquen su distribución como
+
+731
+00:35:34,220 --> 00:35:40,460
+guardan las reglas de forma persistente
+
+732
+00:35:37,700 --> 00:35:42,550
+entonces esto es muy importante para que
+
+733
+00:35:40,460 --> 00:35:43,770
+ustedes tengan en cuenta que lo que
+
+734
+00:35:42,550 --> 00:35:47,220
+están realizando
+
+735
+00:35:43,770 --> 00:35:49,040
+si ustedes tienen dudas del foro el bus
+
+736
+00:35:47,220 --> 00:35:51,510
+que incoe quien lo que hace ay ay ay
+
+737
+00:35:49,040 --> 00:35:53,150
+sitios internet les expliquen ustedes y
+
+738
+00:35:51,510 --> 00:35:56,000
+como un poco qué es lo que está
+
+739
+00:35:53,150 --> 00:35:58,850
+haciendo una regla importante que
+
+740
+00:35:56,000 --> 00:36:00,560
+utilicen estado como es lamentablemente
+
+741
+00:35:58,850 --> 00:36:02,230
+todo está en inglés los comentarios
+
+742
+00:36:00,560 --> 00:36:05,830
+que se coloque metí a mayorista en
+
+743
+00:36:02,230 --> 00:36:08,760
+inglés usando muy posiblemente el
+
+744
+00:36:05,830 --> 00:36:11,040
+problema que ustedes tengan alguien mayo
+
+745
+00:36:08,760 --> 00:36:14,320
+latinismo donde expone algo allí lo
+
+746
+00:36:11,040 --> 00:36:16,910
+pueden buscar y muy seguramente alguna
+
+747
+00:36:14,320 --> 00:36:19,800
+persona lo haga él va a decir ustedes
+
+748
+00:36:16,910 --> 00:36:22,290
+lo que pueden charlar
+
+749
+00:36:19,800 --> 00:36:25,700
+acuérdense al comando de comando les va
+
+750
+00:36:22,290 --> 00:36:26,490
+a permitir ustedes guardar lo que
+
+751
+00:36:25,700 --> 00:36:28,830
+quieren hacer
+
+752
+00:36:26,490 --> 00:36:31,280
+si yo quiero hacerlo luso quiero limpiar
+
+753
+00:36:28,830 --> 00:36:33,740
+las reglas pudo colocar por acá
+
+754
+00:36:31,280 --> 00:36:37,330
+munición y me dice usted pueda ser
+
+755
+00:36:33,740 --> 00:36:39,230
+fríos de todas sus rayos por
+
+756
+00:36:37,330 --> 00:36:43,600
+consiguiente que yo debo decir a gámez
+
+757
+00:36:39,230 --> 00:36:46,820
+yus y puedan revisar cómo que armitage
+
+758
+00:36:43,600 --> 00:36:49,690
+en este momento y limpio absolutamente
+
+759
+00:36:46,820 --> 00:36:52,250
+todo y así deben ver ustedes en este
+
+760
+00:36:49,690 --> 00:36:53,480
+momento bueno cuando ustedes millón o
+
+761
+00:36:52,250 --> 00:36:56,830
+más y no siempre está
+
+762
+00:36:53,480 --> 00:36:59,400
+así vas y no tiene absolutamente nada
+
+763
+00:36:56,830 --> 00:37:02,470
+si ustedes quieren volver a ejecutar el
+
+764
+00:36:59,400 --> 00:37:04,990
+el el faro el huracán la versión 4
+
+765
+00:37:02,470 --> 00:37:08,210
+silla para instinto las reglas ustedes
+
+766
+00:37:04,990 --> 00:37:12,830
+simplemente tiene que reiniciar o de
+
+767
+00:37:08,210 --> 00:37:15,710
+cine arrestar a su al servicio que está
+
+768
+00:37:12,830 --> 00:37:18,310
+para configurar las reglas y si vamos a
+
+769
+00:37:15,710 --> 00:37:21,100
+ir por allí otra vez a ver el listado
+
+770
+00:37:18,310 --> 00:37:23,670
+de las reglas que están puestos en el
+
+771
+00:37:21,100 --> 00:37:25,790
+faro en otra báez las tememos ilícitas
+
+772
+00:37:23,670 --> 00:37:27,310
+entonces es muy cómodo para un
+
+773
+00:37:25,790 --> 00:37:30,130
+administrador de sistemas poder
+
+774
+00:37:27,310 --> 00:37:32,490
+configurar guardar en el sorgo el
+
+775
+00:37:30,130 --> 00:37:36,450
+guardar lo que tenemos configurado y
+
+776
+00:37:32,490 --> 00:37:39,420
+poder entrar mes crisis tenemos entonces
+
+777
+00:37:36,450 --> 00:37:47,180
+volviendo en este caso es indiferente
+
+778
+00:37:39,420 --> 00:37:50,380
+estado las que podemos ver un ente caso
+
+779
+00:37:47,180 --> 00:37:55,890
+la que vamos a utilizar y sunat que es
+
+780
+00:37:50,380 --> 00:37:58,160
+la parte realiza todos los que hay hacia
+
+781
+00:37:55,890 --> 00:38:01,840
+adentro y hacia afuera y está entonces
+
+782
+00:37:58,160 --> 00:38:04,640
+en la parte de la nada bueno ser algo o
+
+783
+00:38:01,840 --> 00:38:06,390
+4x4 por acciones al llamado pre rutina
+
+784
+00:38:04,640 --> 00:38:10,170
+que es cuando llegó un paquete y
+
+785
+00:38:06,390 --> 00:38:13,220
+directamente al kernel y
+
+786
+00:38:10,170 --> 00:38:15,170
+se realiza allí antes de pasarlo
+
+787
+00:38:13,220 --> 00:38:17,160
+cualquier lugar a cualquier puerto a
+
+788
+00:38:15,170 --> 00:38:19,170
+cualquier información llega a esta
+
+789
+00:38:17,160 --> 00:38:21,080
+información luego pasó a una sección
+
+790
+00:38:19,170 --> 00:38:23,060
+que sin porque es cuando entra out
+
+791
+00:38:21,080 --> 00:38:24,400
+cuando sale y en popa rubin que es hacia
+
+792
+00:38:23,060 --> 00:38:26,670
+dónde va de salida
+
+793
+00:38:24,400 --> 00:38:30,710
+entonces usted es bueno hacer el inat
+
+794
+00:38:26,670 --> 00:38:34,440
+cuando asignar y significa traducir la
+
+795
+00:38:30,710 --> 00:38:36,850
+paquete ps20 que viene y hacia fuera del
+
+796
+00:38:34,440 --> 00:38:39,980
+de una de las protecciones del cual
+
+797
+00:38:36,850 --> 00:38:42,340
+inició por favor revise un poco más
+
+798
+00:38:39,980 --> 00:38:45,190
+yo no haré que ninguna regla para hacer
+
+799
+00:38:42,340 --> 00:38:47,420
+forwarding de puertos también que así
+
+800
+00:38:45,190 --> 00:38:49,490
+pues ya realizar allí o sea religión
+
+801
+00:38:47,420 --> 00:38:52,100
+at sobre él para capo también que
+
+802
+00:38:49,490 --> 00:38:53,790
+estalló esta amistad estatalidad se
+
+803
+00:38:52,100 --> 00:38:56,560
+pueden hacer algunas configuraciones muy
+
+804
+00:38:53,790 --> 00:39:00,050
+es decir que éstas para poder abrir o
+
+805
+00:38:56,560 --> 00:39:03,430
+cerrar puertos y evitará también
+
+806
+00:39:00,050 --> 00:39:06,630
+ataques a aa futuro de leo es entonces
+
+807
+00:39:03,430 --> 00:39:13,370
+invertir un poco más ordenada y sobre
+
+808
+00:39:06,630 --> 00:39:15,920
+ip tiburcio para encontrar la
+
+809
+00:39:13,370 --> 00:39:18,580
+información que está allí vamos a
+
+810
+00:39:15,920 --> 00:39:20,130
+crear un dinero adicional voy voy a
+
+811
+00:39:18,580 --> 00:39:22,250
+explicar un poco más sobre hacer estas
+
+812
+00:39:20,130 --> 00:39:24,170
+configuraciones un poco más complejas
+
+813
+00:39:22,250 --> 00:39:27,190
+entonces en los próximos días va a
+
+814
+00:39:24,170 --> 00:39:29,140
+salir un vídeo de algo más urive
+
+815
+00:39:27,190 --> 00:39:32,710
+árboles y sol configuraciones
+
+816
+00:39:29,140 --> 00:39:35,300
+específicas para nadar a una política
+
+817
+00:39:32,710 --> 00:39:37,320
+de seguridad o cómo podemos filtrar
+
+818
+00:39:35,300 --> 00:39:42,480
+algunos paquetes cómo podemos hacerlo
+
+819
+00:39:37,320 --> 00:39:42,480
+de los paquetes más
+
